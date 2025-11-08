@@ -66,10 +66,9 @@ A responsive, interactive resume website built with React as part of a frontend 
    ```
 
 ## Build for Production
-
-    ```bash
-    npm run build
-    ```
+   ```bash
+   npm run build
+   ``` 
 
 ## 🔐 Authentication
 
@@ -130,7 +129,7 @@ CSS Variables - Theming and consistency
 - Netlify - Hosting platform
 
 ## 📁 Project Structure
-
+``` bash
 src/
 ├── components/
 │ ├── Login/
@@ -149,6 +148,7 @@ src/
 │ ├── App.css
 │ └── index.css
 └── App.js
+```
 
 ## 🎨 Design Decisions
 
