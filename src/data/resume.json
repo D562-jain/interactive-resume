@@ -1,0 +1,125 @@
+{
+  "personalInfo": {
+    "name": "Alex Johnson",
+    "title": "Frontend Developer Intern",
+    "email": "alex.johnson@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "summary": "Passionate frontend developer with experience in React, JavaScript, and modern web technologies. Seeking to leverage skills in creating responsive and accessible web applications.",
+    "linkedin": "linkedin.com/in/alexjohnson",
+    "github": "github.com/alexjohnson"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "TechStart Inc.",
+      "role": "Frontend Development Intern",
+      "period": "Jun 2023 - Present",
+      "description": "Developed responsive web applications using React and TypeScript. Collaborated with design team to implement accessible UI components and improve user experience.",
+      "skills": ["React", "TypeScript", "CSS3", "Git"],
+      "type": "work"
+    },
+    {
+      "id": 2,
+      "company": "Digital Solutions LLC",
+      "role": "Web Development Volunteer",
+      "period": "Jan 2023 - May 2023",
+      "description": "Built and maintained websites for local non-profits. Implemented responsive designs and optimized site performance.",
+      "skills": ["HTML5", "CSS3", "JavaScript", "WordPress"],
+      "type": "work"
+    },
+    {
+      "id": 3,
+      "company": "University Coding Club",
+      "role": "Frontend Lead",
+      "period": "Sep 2022 - Dec 2022",
+      "description": "Led frontend development for club projects. Mentored junior members in React and modern CSS techniques.",
+      "skills": ["React", "Team Leadership", "Mentoring"],
+      "type": "volunteer"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "University of Technology",
+      "degree": "Bachelor of Science in Computer Science",
+      "period": "2021 - 2024",
+      "gpa": "3.8/4.0",
+      "achievements": ["Dean's List", "CS Department Scholarship"]
+    },
+    {
+      "id": 2,
+      "institution": "Frontend Masters",
+      "degree": "Advanced React Certification",
+      "period": "2023",
+      "achievements": ["Completed advanced React patterns course"]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React", "JavaScript", "TypeScript", "HTML5", "CSS3", "SASS"]
+    },
+    {
+      "category": "Tools & Methods",
+      "items": ["Git", "Webpack", "Jest", "Figma", "Agile", "Scrum"]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        "Problem Solving",
+        "Team Collaboration",
+        "Communication",
+        "Time Management"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "E-Commerce Dashboard",
+      "description": "Built a responsive admin dashboard with React and Chart.js for data visualization. Implemented real-time sales tracking, inventory management, and customer analytics features.",
+      "technologies": ["React", "Chart.js", "CSS3", "REST API", "Context API"],
+      "githubUrl": "https://github.com/alexjohnson/ecommerce-dashboard",
+      "liveUrl": "https://alexjohnson-ecommerce-demo.netlify.app",
+      "features": [
+        "Real-time analytics",
+        "Responsive design",
+        "Data visualization",
+        "RESTful API integration"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Weather Application",
+      "description": "Developed a weather application with location-based forecasts and interactive maps. Features include 7-day forecasts, weather alerts, and favorite locations.",
+      "technologies": [
+        "JavaScript",
+        "OpenWeather API",
+        "Leaflet.js",
+        "Local Storage"
+      ],
+      "githubUrl": "https://github.com/alexjohnson/weather-app",
+      "liveUrl": "https://alexjohnson-weather-app.vercel.app",
+      "features": [
+        "Geolocation",
+        "Interactive maps",
+        "7-day forecast",
+        "Favorite locations"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Task Management App",
+      "description": "Created a collaborative task management application with drag-and-drop functionality, real-time updates, and team collaboration features.",
+      "technologies": ["React", "Node.js", "Socket.io", "MongoDB", "Express"],
+      "githubUrl": "https://github.com/alexjohnson/task-manager",
+      "features": [
+        "Drag & drop",
+        "Real-time updates",
+        "Team collaboration",
+        "Progress tracking"
+      ]
+    }
+  ]
+}
