@@ -2,20 +2,25 @@
   "name": "interactive-resume",
   "version": "1.0.0",
   "description": "A responsive interactive resume website with authentication and filtering features",
-  "homepage": ".",
+  "homepage": "https://D562-jain.github.io/interactive-resume",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^5.1.0"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   },
   "eslintConfig": {
     "extends": [
