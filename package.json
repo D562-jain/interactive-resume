@@ -2,7 +2,7 @@
   "name": "interactive-resume",
   "version": "1.0.0",
   "description": "A responsive interactive resume website with authentication and filtering features",
-  "homepage": "https://D562-jain.github.io/interactive-resume",
+  "homepage": "https://d562-jain.github.io/interactive-resume",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
