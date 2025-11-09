@@ -6,6 +6,13 @@ A responsive, interactive resume website built with React as part of a frontend 
 
 https://d562-jain.github.io/interactive-resume
 
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/0448d6e5-ceb7-4857-bda7-0a72ce09b5d3
+
+
 ## 📋 Features
 
 ### Core Requirements
