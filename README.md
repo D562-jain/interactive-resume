@@ -126,7 +126,7 @@ CSS Variables - Theming and consistency
 
 ### Deployment
 
-- Netlify - Hosting platform
+- Github pages - Hosting platform
 
 ## 📁 Project Structure
 ``` bash
